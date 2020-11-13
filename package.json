@@ -10,7 +10,7 @@
     "license": "MIT",
     "dependencies": {
         "ipv6-normalize": "^1.0.1",
-        "nodemailer": "^4.0.1"
+        "nodemailer": "^6.4.16"
     },
     "devDependencies": {
         "chai": "^4.1.1",
